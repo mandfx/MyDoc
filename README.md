@@ -1,5 +1,5 @@
-### mandfx
-OTA_service
+### MyDoc
+MyDoc Canary
 
 ### Test dtbo.img To dts
 Aosp out/host/linux-x86/bin/mkdtimg  Tip：mkdtimg dump dtbo.img -b <filename>   dtbo.img To dtb
