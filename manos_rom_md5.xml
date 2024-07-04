@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manos>
+	<!-- MD5对比主要检验ROM刷机包的完整性,查看是否下载过程中损坏导致刷机失败  -->
+	<!-- 电脑版MD5校验工具下载:http://url.cn/5o6BqCF 内含Recovery刷机工具合集 -->	
+	<!-- 手机版请使用炫设置-一键刷机功能长按压缩包查看,然后对比我发布的MD5值  -->	
+	
+	<!--      如果当前ROM包还没有MD5值请耐心等待,最迟晚上一定会更新MD5值      -->
+	<!-- 一般对比下MD5头尾就行  卡刷ROM包的名字  -->  <!--  卡刷ROM包的MD5值  -->
+	
+	<string name="miui_MIMIX2_V9.5.2.0.ODECNFA_8.0-843.zip">99D92F9CAC80568F78E1B94FBF6AD775</string>
+	<string name="乐视max2_X820_5.9.066S-843.zip">83DE48B8CB5B2FC93167221FB4F5AE89</string>
+	<string name="乐视Pro3_X720-5.9.066S-843.zip">887E5C80EDDBA941923EFBB98784ED4F</string>
+	<string name="miui_MIMAX2_V9.5.2.0.NDDCNFA_7.1-843.zip">D93EEE921FC8043DDDA081032BE03074</string>
+	<!-- 2018.04.03 -->
+	<string name="miui_MINote2_V9.5.1.0.NADCNFA_7.0-8330.zip">74E2F17533CE3EFC93CB09ED627BF803</string>
+	<string name="miui_MI5X_8.3.29_7.1-8330.zip">3BAF332AC1D860C1C77D79652D3FB2BA</string>
+	<string name="miuiV9_乐视2_8.3.29_6.0-B8330.zip">AE66F63160CEB9D5A0D602A3127626CA</string>
+	<string name="miui_HM5Plus_8.3.29_7.1-8330.zip">905C0A2D22B41185BA9E9AE780E93658</string>
+	<string name="miui_HMNote4X_8.3.29_7.0-8330.zip">F0FF696FC01D1874B7C483F9FE0E06B2</string>
+	<string name="miui_MI6_8.3.29_8.0-8330.zip">CD086EA9D028604E86BCB74BFEFE3C57</string>
+	<!-- 2018.03.30 -->	
+	<string name="miui_MIMAX2_V9.5.1.0.NDDCNFA_7.1-8329.zip">F26E84E1E25F26128F1357B58B9AAD65</string>
+	<string name="miui_HM5Plus_V9.5.2.0.NEGCNFA_7.1-B8329.zip">57A26194E94037B2879285F5AF56FF84</string>
+	<!-- 2018.03.29 -->	
+	<string name="乐视2_X620_Pro-5.9.066S-B8328.zip">7AECDCCED5BE5BD39E33BC396F305661</string>
+	<string name="乐视1S_X500-5.9.066S_B8328.zip">1A582A110BEDC7C322D6C2010F983FF9</string>
+	<!-- 2018.03.28 -->	
+	<string name="miui_MINote3_V9.5.4.0.NCHCNFA_7.1-8326.zip">72D9873F0896CBE7A575D71F4B1B8CDE</string>
+	<string name="miui_MI5X_8.3.26_7.1-8326.zip">93FAC1D70662F950FB8AD7C388AD6C12</string>
+	<!-- 2018.03.26 -->	
+	<string name="miui_MIMAX2_8.3.22_7.1-8323">01129A2D48CEA7B917990B760EAA79A8</string>
+	<string name="miuiV9_乐视2_8.3.22_6.0-B8323.zip">076AF13D44F50C5A8CC8C04A40959902</string>
+	<string name="miui_MI6_8.3.22_8.0-C8323.zip">BEB156C7DDCC982FBAA3DF306ED9B24B</string>
+	<string name="miui_HMNote4X_8.3.22_7.0-8323.zip">BE30B7D12016FC3EB789515A79E795AE</string>
+	<string name="miui_HM5Plus_8.3.22_7.1_B8323.zip">7EA27E4DC62D7F1B2A44A091CA13FFD4</string>
+	<!-- 2018.03.23 -->	
+	<string name="MIUI8-乐视Pro3_X720-8322.zip">7E8D2DBD90D00FF942C2CE5ADE7B1B46</string>
+	<string name="MIUI8-乐视max2_X820_8322.zip">B5C9D4053A64DB301B1E22F7ABA9BF0E</string>
+	<!-- 2018.03.22 -->
+	<string name="miui_MI6_V9.5.3.0.OCACNFA_8.0-B8319.zip">C5FCD275350E6371DF40E352B033E908</string>
+	<string name="miui_MINote2_8.3.15_7.0-8316.zip">336FD6160EE5317CAAC786743E24601E</string>
+	<string name="miuiV9_乐视2_8.3.15_6.0-B8316.zip">A6067D3D95EFD0D817C0004FC1EEDEEE</string>
+	<string name="miui_MI5X_8.3.15_7.1-8316.zip">A5E000E405B6133B442A9C27AEC4788E</string>
+	<string name="miui_HM5Plus_8.3.15_7.1-8316.zip">BCEE6A788D3024E596EF1D370909FA6C</string>
+	<string name="miui_HMNote4X_8.3.15_7.0-8316.zip">D9D736CA82BB1213EC8B3310D4E77117</string>
+	<!-- 2018.03.15 -->
+	<string name="miui_MI3WMI4W_V9.5.1.0.MXDCNFA_6.0-B8315.zip">FDD6A5B5365F9AC8375B107991CA9B94</string>
+	<string name="miui_MINote3_V9.5.3.0.NCHCNFA_7.1-8314.zip">AC675F27AB3355BA49C3CFF0FB2C964F</string>
+	<string name="miui_HM5Plus_V9.5.1.0.NEGCNFA_7.1-8314.zip">C0722158627191E7D8B3F0F8B642AE06</string>
+	<string name="miui_HMNote4X_V9.5.1.0.NCFCNFA_7.0-B8314.zip">01E44BAAB122E048EDC1D823E72A0DBB</string>
+	<string name="乐视Pro3-5.9.028S-8312.zip">147BC590961E6429458225FD4118868C</string>
+	<string name="乐视max2_X820-5.9.028S-B8311.zip">4E561238B3B0D511A0FB178722D07A38</string>
+	<!-- 2018.03.09 -->
+	<string name="miui_MINote2_8.3.8_7.0-839.zip">D5B5A4395156C148D8051B572A4BB9D7</string>
+	<string name="miui_MI6_8.3.8_8.0-B839.zip">28B29C23BF1E571239A5EBDC77655AE3</string>
+	<string name="miuiV9_乐视2_8.3.8_6.0-B839.zip">5943DE0130614BB9C68EBCFFE4C89488</string>
+	<string name="miui_HMNote4X_8.3.8_7.0-839.zip">E2F97CD19824702DADB5C848C0440BCD</string>
+	<string name="miui_HM5Plus_8.3.8_7.1-839.zip">DDDCAC2543E672C6F2BD5B7BD24A16C9</string>
+	<!-- 2018.03.02 -->
+	<string name="miui_MI5X_8.3.1_7.1-832.zip">2AA1CAFF72CFD33E9100CBC45E9FA8F8</string>
+	<string name="miui_MI6_8.3.1_8.0-832.zip">5A4569608D466FFEC5467F5F64516647</string>
+	<string name="miuiV9_乐视2_8.3.1_6.0-B832.zip">FCB13354849E18FDD89FC25DD7EDE5A7</string>
+	<string name="miui_HM5Plus_8.3.1_7.1-832.zip">F1D808B5D05C3237848A764F37B3014E</string>
+	<string name="miui_HMNote4X_8.3.1_7.0-B832.zip">9CEA7DA99A429F4D549C1FAE56D14ED7</string>
+	<string name="乐视2_X620_Pro-5.9.28S-831.zip">D8687779DEE35BCC13BE90C6FEDFE488</string>
+	<string name="乐视1S-5.9.028S-B831.zip">37196817E4F22CC50118E0A4CA69276C</string>
+	<!-- 2018.02.15 -->
+	<string name="MIUI8-乐视Pro3_X720-8215.zip">D93649C6579A48B35517788401C1E82A</string>
+	<string name="MIUI8-乐视max2_X820_8215.zip">E70574B08CD196A481C1158FBC188E0E</string>
+	<string name="乐视1S-5.9.028S-A8214.zip">362D2C9C684E54996E77AF376FBC70FD</string>
+	<string name="乐视2_X620_Pro-5.9.28S-A8214.zip">6F6ECA5F67D0C3B28D6523DCCED5163E</string>
+	<!-- 2018.02.10 -->
+	<string name="miui_HM5Plus_V9.2.3.0.NEGCNEK_7.1-8210.zip">57F2D8EF7289DA0F011FBB226311152B</string>
+	<string name="miui_MI5X_V9.2.1.0.NDBCNEK_7.1-8210.zip">6D668E741AB0B7E05EC5BF2C19A0E997</string>
+	<string name="miui_MI6_V9.2.4.0.NCACNEK_7.1-8210.zip">3BC633C29D564C1BBC9CA6E535CF5C94</string>
+	<string name="miui_HMNote4X_V9.2.1.0.NCFCNEK_7.0-8210.zip">8BFEB69037078E2BBE39311F071DB4A0</string>
+	<string name="乐视Pro3-5.9.028S-829.zip">05E444D324C769642BACAB1485BA84A0</string>
+	<string name="乐视max2_X820-5.9.028S-S829.zip">E33F515504BCFF343E834E6393B4000C</string>
+	<!-- 2018.02.02 -->
+	<string name="miui_MI6_8.2.2_8.0-822.zip">597EAAF9BAA4DFBD8620BE2171E07966</string>
+	<string name="miuiV9_乐视2_8.2.1_6.0-822.zip">0416B6213B6E46A79B96C2CF5C7AFD74</string>
+	<string name="miui_HMNote4X_8.2.1_7.0-822.zip">193E291D94104BD00F92B29E8BFF74A2</string>
+	<string name="miui_HM5Plus_8.2.1_7.1-A822.zip">DDC6F0A3D91DFDC8D306D2A386F19F44</string>
+	<!-- 2018.01.26 -->
+  	<string name="miui_HMNote4X_8.1.25_7.0-8126.zip">FBD753C847AD863D0410644493511355</string>
+  	<string name="miui_HM5Plus_8.1.25_7.1-8126.zip">4DE11A13026FDE59BC400A8BD70F2E8E</string>
+  	<string name="miui_MI6_8.1.26_8.0-8126.zip">8EB0463A8D8E6797D13E5DEC3429D8BE</string>
+  	<string name="miuiV9_乐视2_8.1.25_6.0-S8126.zip">31715688C3B15D4234BC794E3D8A35D4</string>
+    <!-- 2018.01.19 -->
+  	<string name="miui_HMNote2_8.1.18_5.0-8119.zip">8977CF01CBF5C6D23A0ABF68C07A9F0F</string>
+  	<string name="miui_HMNote3_8.1.18_5.0-8119.zip">9FAE2CE8A70840FBDD0BAA435CE4C003</string>
+	<string name="miui_MI6_8.1.19_8.0-8119.zip">F8EF82A367F44D3180EE959B9D8D1A86</string>
+	<string name="miuiV9_乐视2_8.1.18_6.0-A8119.zip">D552FB7953415DBFBA2A02991C472DD8</string>
+	<string name="miui_HM5Plus_8.1.18_7.1-8119.zip">130B3FF513E510BF831F4732C6B6EC08</string>
+	<string name="miui_HMNote4X_8.1.18_7.0-8119.zip">91DDF6EBD349E3A0852079C074DD8E79</string>
+	<!-- 2018.01.18 -->
+	<string name="MIUI8-乐视max2_X820_8118.zip">0659AF8E93B752248F839A65D6484D2B</string>
+	<string name="MIUI8-乐视Pro3_X720-OK8118.zip">068CAE7DCA5AC4B6028F169C06E1FD6C</string>
+	<string name="miui_HM5Plus_V9.2.1.0.NEGCNEK_7.1-8117.zip">0826E17B1EF6848720E694439AF50322</string>
+	<string name="miuiV9_乐视2_V9.2.1.0稳定版_6.0-A8117.zip">B3948B62622A4151942C5FCF89B163FD</string>
+	<string name="miui_MI5X_8.1.17_7.1-8117.zip">3E3B0E0545ACB692EC16411B42B919FC</string>
+	<string name="miui_MI6_V9.2.3.0.NCACNEK_7.1-A8116.zip">C0A17AED276A011F71E5DDF0AF9F679A</string>
+	<string name="miui_HM5Plus_8.1.11_7.1-A8112.zip">BFF7859637E21872E04274A5C3ADF464</string>
+	<string name="miui_HMNote2_8.1.11_5.0-8112.zip">B58E62CD7EACDFE272F1277F41509FAD</string>
+	<string name="miui_HMNote3_8.1.11_5.0-8112.zip">8F3659B4BF6F330C5C2C875BCB4D4256</string>
+	<string name="miui_HMNote4X_8.1.11_7.0-A8112.zip">53D4974B5BC746BDC2CC40894C37A529</string>
+	<string name="miuiV9_乐视2_8.1.11_6.0-8112.zip">D1AEEBB86D49C09C15F44E8C9F9E2FA7</string>
+  
+
+</manos>
